@@ -9,6 +9,7 @@ Neural Machine Translation (Translating English to Marathi) using Encoder-Decode
 
 3] Decoding the predicted outputs to strings (during testing)
 
+Dataset link : http://www.manythings.org/anki/ (Download "mar-eng.zip" file)
 
 ![image](https://user-images.githubusercontent.com/63066870/121022246-c99b2100-c7bf-11eb-9770-7806365f89b8.png)
 
